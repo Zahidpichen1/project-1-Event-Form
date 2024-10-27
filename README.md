@@ -17,3 +17,14 @@ A student application form which collects basic details like name, age, email ID
 6) `git commit -m "<message>"`, it commits whatever is there in the track
 7) `git remote add origin <GitHub repository link>`, builds connection between git and github
 8) `git push --set-upstream origin master`, sends all the files from git to github.
+
+
+### Output
+  
+  ![image](https://github.com/user-attachments/assets/d9b65ec7-4041-46e6-9e7a-7ac20230a077)
+
+  ![image](https://github.com/user-attachments/assets/c2f77ddc-7268-4dbf-9c00-2bb928ac3d63)
+
+  ![image](https://github.com/user-attachments/assets/4b453db1-9b5f-4ab7-aac6-24c474324af6)
+
+
