@@ -1,5 +1,3 @@
-%%writefile app.py
-
 import streamlit as st
 
 # Function to create the registration form
